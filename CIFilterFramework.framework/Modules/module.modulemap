@@ -1,0 +1,6 @@
+framework module CIFilterFramework {
+  umbrella header "CIFilterFramework.h"
+
+  export *
+  module * { export * }
+}
