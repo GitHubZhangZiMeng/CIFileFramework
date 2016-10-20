@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/CIFilterFramework.h</key>
 		<data>
-		VQahzXj2ljtZ38To/jManExNs0I=
+		MmuopFnQtj41tPAc/IhVnI+/ts4=
 		</data>
 		<key>Headers/CIGloom.h</key>
 		<data>
@@ -51,6 +51,10 @@
 		<key>Headers/CIHighlightShadowAdjust.h</key>
 		<data>
 		eeudLTTUuvASiyOwbrsyfuOV7Uo=
+		</data>
+		<key>Headers/CILineOverlay.h</key>
+		<data>
+		ov76kSUPNk9ADkpz0vdQqYBZYj4=
 		</data>
 		<key>Headers/CIPhotoEffectChrome.h</key>
 		<data>
@@ -202,11 +206,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VQahzXj2ljtZ38To/jManExNs0I=
+			MmuopFnQtj41tPAc/IhVnI+/ts4=
 			</data>
 			<key>hash2</key>
 			<data>
-			JFiTHAwXSWpNpmHbK5I0hEnBRjiYgJFcNvEQC5EvDiI=
+			wv8XgOgY0OSfsyPX48sB5QvIsWQ8MSyzjurAOaFAnP8=
 			</data>
 		</dict>
 		<key>Headers/CIGloom.h</key>
@@ -229,6 +233,17 @@
 			<key>hash2</key>
 			<data>
 			6IuwQ9MOXLpGkkdkH4sMs5mCNzIvVLG30hFOSBX9wyY=
+			</data>
+		</dict>
+		<key>Headers/CILineOverlay.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ov76kSUPNk9ADkpz0vdQqYBZYj4=
+			</data>
+			<key>hash2</key>
+			<data>
+			5apkUcg1JsbT6w956+Estxfopw6WxI3LCPx20ZQ7im4=
 			</data>
 		</dict>
 		<key>Headers/CIPhotoEffectChrome.h</key>

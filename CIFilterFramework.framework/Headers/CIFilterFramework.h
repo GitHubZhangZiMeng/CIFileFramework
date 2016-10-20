@@ -27,6 +27,7 @@
 #import "CIColorMap.h"
 #import "CIColorInvert.h"
 #import "CIColorCube.h"
+#import "CILineOverlay.h"
 
 
 //! Project version number for CIFilterFramework.
